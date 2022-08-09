@@ -1,8 +1,9 @@
-# How to Refactor Monolith Service to Microservices #
+# How to Refactor Monolith Service to Microservices
 
-A Monolith application is a single unified unit. All the components of an application is baked into a single process and share one database. The Microservice is more flexible because each service is a separate, independent and deployable service with it's own database. A service can be worked on separately without damaging the whole application.
+## A Monolith application is a single unified unit. All the components of an application is baked into a single process and share one database. The Microservice is more flexible because each service is a separate, independent and deployable service with it's own database. A service can be worked on separately without damaging the whole application.
 For the Udacity Cloud Developer Nanodegree third project, i worked on refactoring a monolith app to microservices.
 For this project, the prerequisites are PostgreSQL client, NodeJS v12.14 - 14.15, Ionic CLI utility v6, Docker desktop, Travis account (using your GitHub account), AWS CLI v2 - create an IAM user with admin priviledges, copy it's access key and configure locally, kubectl CLI utility (to communicate with kubernetes clusters).
+
 aws configure
 # Run a sample command
 aws iam list-users
