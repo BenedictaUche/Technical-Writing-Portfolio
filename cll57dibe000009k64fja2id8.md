@@ -4,7 +4,7 @@ datePublished: Thu Aug 10 2023 13:36:33 GMT+0000 (Coordinated Universal Time)
 cuid: cll57dibe000009k64fja2id8
 slug: slice-and-splice-lets-break-it-down-like-im-twelve
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691673692358/599cb6a9-ba52-4343-a1aa-e04755132dad.png
-tags: javascript, beginners, array, array-methods, javascript-splice
+tags: javascript, beginners, array, 2articles1week, javascript-splice
 
 ---
 
@@ -159,7 +159,7 @@ Good luck!!
 
 ## Conclusion
 
-In this article, we've met two handy helpers: `slice()` and `splice()`. `Slice()` is like getting apple slices without changing the apple itself – it extracts parts of arrays. On the other hand, `splice()` is like moving beads on a string, directly changing arrays by adding, removing, or replacing elements.
+In this article, we've met two handy helpers: Slice ( ) and `splice()`. Slice( ) is like getting apple slices without changing the apple itself – it extracts parts of arrays. On the other hand, splice( ) is like moving beads on a string, directly changing arrays by adding, removing, or replacing elements.
 
 When you need a new array piece, go for `slice()`. When you want to shake things up in an array, use `splice()`. With these tools, you're good to go. Happy splicing and slicing!
 
