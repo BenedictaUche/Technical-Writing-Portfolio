@@ -8,8 +8,6 @@ tags: javascript, beginners, array, array-methods, javascript-splice
 
 ---
 
-## INTRODUCTION
-
 Imagine you have a basket of apples, and you want to share them with your friends. You might need to cut the apples into smaller pieces or take out a few slices. Well, in JavaScript, we have something similar called **slice** and **splice** methods. Don't worry if you're new to coding – these are your trusty tools to quickly chop up and rearrange lists of things, just like those apples. So, grab your coding apron, and let's start slicing and splicing arrays in JavaScript!
 
 %[https://media.giphy.com/media/HPMAJ3Ezff9TfnDClQ/giphy.gif] 
