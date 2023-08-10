@@ -163,6 +163,8 @@ In this article, we've met two handy helpers: Slice ( ) and `splice()`. Slice( )
 
 When you need a new array piece, go for `slice()`. When you want to shake things up in an array, use `splice()`. With these tools, you're good to go. Happy splicing and slicing!
 
+Like and leave a comment. If you have questions, I'd be delighted to answer them.
+
 ## Additional Resources
 
 * [Array.prototype.splice() - JavaScript | MDN (](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)[mozilla.org](http://mozilla.org)[)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
