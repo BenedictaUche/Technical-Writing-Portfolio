@@ -4,6 +4,7 @@ datePublished: Thu Aug 10 2023 13:36:33 GMT+0000 (Coordinated Universal Time)
 cuid: cll57dibe000009k64fja2id8
 slug: slice-and-splice-lets-break-it-down-like-im-twelve
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691673692358/599cb6a9-ba52-4343-a1aa-e04755132dad.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691677368688/e51d1d0e-8a98-467c-acef-c9efa7089484.png
 tags: javascript, beginners, array, 2articles1week, javascript-splice
 
 ---
